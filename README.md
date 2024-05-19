@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @sanjeevpatel3007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...# 👋 Hi, I’m @sanjeevpatel3007
+# 👋 Hi, I’m @sanjeevpatel3007
 
 ## About Me
 
@@ -26,21 +20,22 @@ I'm a passionate MERN stack developer with a deep interest in web development an
 
 ### Current Focus
 
-- 🌱 I’m currently learning advanced concepts in DSA and exploring new features in React and Next.js.
+- 🌱 I’m currently learning advanced concepts in DSA and exploring new features in React and Next.js. I'm also working on improving my knowledge in modern web development frameworks and tools.
 
 ### Interests
 
 - 👀 I’m interested in:
   - Full-stack web development
   - Building scalable and efficient web applications
-  - Exploring new technologies and frameworks
+  - Exploring new technologies and frameworks such as serverless architecture and microservices
+  - Enhancing my problem-solving skills through competitive programming
 
 ### Collaboration
 
 - 💞️ I’m looking to collaborate on:
-  - Open-source projects
-  - Innovative web development projects
-  - Learning and sharing knowledge with the community
+  - Open-source projects where I can contribute and learn from the community
+  - Innovative web development projects that solve real-world problems
+  - Sharing knowledge and mentoring others in the community
 
 ### Contact Me
 
@@ -54,8 +49,6 @@ I'm a passionate MERN stack developer with a deep interest in web development an
 - ⚡ Fun fact: When I'm not coding, you can find me playing chess. It's my favorite hobby and helps me think strategically.
 
 ---
-
-
 
 <!---
 sanjeevpatel3007/sanjeevpatel3007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
