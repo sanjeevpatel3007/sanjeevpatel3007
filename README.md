@@ -133,7 +133,7 @@
 ---
 
 <!-- Portfolio Link -->
-**Portfolio**: [https://sanjeevpatel-portfolio.vercel.app](https://sanjeevpatel-portfolio.vercel.app)
+**Portfolio**: [Link](https://portfolio-git-master-sanjeev-patels-projects.vercel.app/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaasu02/Vaasu02/output/github-snake-dark.svg" />
