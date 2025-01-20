@@ -136,7 +136,7 @@
 **Portfolio**: [Link](https://portfolio-git-master-sanjeev-patels-projects.vercel.app/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaasu02/Vaasu02/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaasu02/Vaasu02/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Vaasu02/Vaasu02/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjeevpatel3007/sanjeevpatel3007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjeevpatel3007/sanjeevpatel3007/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sanjeevpatel3007/sanjeevpatel3007/output/github-snake.svg" />
 </picture>
